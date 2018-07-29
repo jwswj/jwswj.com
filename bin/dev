@@ -1,0 +1,4 @@
+#!/bin/bash
+
+exec ruby -run -e httpd public -p 3000
+

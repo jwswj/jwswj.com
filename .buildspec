@@ -1,0 +1,6 @@
+build:
+   commands:
+     - echo "might build something in the future, but nothing for now"
+ post_build:
+   commands:
+     - aws s3 sync --region=us-west-1 --delete ./public "s3://jwswj.com"

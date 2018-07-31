@@ -1,6 +1,6 @@
 # jwswj.com
 
-Public website.
+A very static website running at https://jwswj.com.
 
 Infrastructure maintained by Terraform in [https://github.com/jwswj/jwswj.com-ifra](https://github.com/jwswj/jwswj.com-ifra)
 

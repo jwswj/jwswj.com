@@ -2,7 +2,7 @@
 
 A very static website running at https://jwswj.com.
 
-Infrastructure maintained by Terraform in [https://github.com/jwswj/jwswj.com-ifra](https://github.com/jwswj/jwswj.com-ifra)
+Infrastructure maintained by Terraform in [https://github.com/jwswj/jwswj.com-infra](https://github.com/jwswj/jwswj.com-infra)
 
 ## Development
 

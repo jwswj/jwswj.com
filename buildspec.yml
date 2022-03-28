@@ -1,5 +1,0 @@
-version: 0.2
-phases:
-  post_build:
-    commands:
-      - aws s3 sync --region=us-west-1 --delete ./public "s3://jwswj.com"
